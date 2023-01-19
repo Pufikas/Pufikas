@@ -9,4 +9,4 @@
 
 
 
-<a text-font=6>sources: count.chiya.dev</a>
+<p font-style: italic>sources: count.chiya.dev</p>
