@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=Pufikas&&style=flat-square" align="center" />
 </div> 
 
-[![counter](https://count.chiya.dev/get/@Pufikas)](https://count.chiya.dev/)
+[![counter](https://count.chiya.dev/get/@Pufikas?theme="rule34")](https://count.chiya.dev/)
 
 [chiya]: https://chiya.dev/
 
