@@ -1,5 +1,8 @@
-<!-- <img src="https://komarev.com/ghpvc/?username=Pufikas&&style=flat-square" align="center" /> -->
 
+
+
+const readme =
+`
 
 <h1 align="center">Welcome</h1>
 
@@ -21,7 +24,6 @@ Interested in **Javascript, R**, Backend specified things.
 
 </h1>
 
-<h7>sources: count.chiya.dev</h7>
+`
 
-
-
+console.log(readme)
