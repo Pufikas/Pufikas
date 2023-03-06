@@ -1,7 +1,6 @@
 <h1 align="center">Welcome</h1>
 
 <h3>
-Just a student that learns programming while not in school.
 
 Interested in **Javascript, R**, Backend specified things.
 
