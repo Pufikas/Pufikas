@@ -2,9 +2,8 @@
 
 <h3>
 
-Interested in **Javascript, R**, Backend specified things.
-
-I would like to work with other people too..
+Interested in **Javascript, R**, Backend.
+  
 
 <a href="https://wakatime.com/@3ce640bc-29d5-41a9-b18c-6edb03cabfff"><img src="https://wakatime.com/badge/user/3ce640bc-29d5-41a9-b18c-6edb03cabfff.svg" alt="Total time coded since Dec 7 2022" /></a>
 </h3>
