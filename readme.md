@@ -1,10 +1,9 @@
 <h1 align="center">Welcome</h1>
 
 <h3>
-Learning Javascript, R, Japanese, Shell, Linux.
 
-<a href="https://wakatime.com/@3ce640bc-29d5-41a9-b18c-6edb03cabfff"><img src="https://wakatime.com/badge/user/3ce640bc-29d5-41a9-b18c-6edb03cabfff.svg" alt="Total time coded since Dec 7 2022" /></a>
-</h3>
+Interested in **Javascript, R**, Backend.
+  
 
 <h1 align="center">
 
@@ -12,5 +11,13 @@ Learning Javascript, R, Japanese, Shell, Linux.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Pufikas&theme=violet-dark&border_radius=4&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
-
+  <h1 align="center"> <a href="https://octo-ring.com/register">+</a> <a href="https://octo-ring.com/p/Pufikas/prev"><</a> <a href="https://octo-ring.com/">
+<img align="center" src="https://media.discordapp.net/attachments/856404208445292545/995328704580431962/octa.png" height="100px"></a> <a href="https://octo-ring.com/p/Pufikas/next">></a> <a href="https://octo-ring.com/p/Pufikas/random">!</a>
 </h1>
+</h1>
+  
+[![wakatime](https://wakatime.com/badge/user/3ce640bc-29d5-41a9-b18c-6edb03cabfff.svg)](https://wakatime.com/@3ce640bc-29d5-41a9-b18c-6edb03cabfff)
+![](https://dcbadge.vercel.app/api/shield/320148009759277056?style=clean)
+  
+</h1>
+
