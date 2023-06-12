@@ -2,7 +2,7 @@
 
 <h3>
 
-Interested in **Javascript, R**, Backend.
+Learning Javascript, R, Japanese, Shell, Linux.
   
 
 <h1 align="center">
