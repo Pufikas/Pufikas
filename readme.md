@@ -2,8 +2,7 @@
 
 <h3>
 
-Learning Javascript, R, Japanese, Shell, Linux.
-  
+I like cute things
 
 <h1 align="center">
 
