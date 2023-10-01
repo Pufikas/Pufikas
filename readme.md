@@ -1,6 +1,6 @@
 <h1 align="center">Welcome</h1>
 
-<h3>
+<h3 align="center">
 
 Time is precious, once you've lost it you can never get it back..
 
