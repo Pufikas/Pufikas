@@ -2,7 +2,7 @@
 
 <h3>
 
-I like cute things
+Time is precious, once you've lost it you can never get it back..
 
 <h1 align="center">
 
