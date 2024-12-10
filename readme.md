@@ -1,5 +1,5 @@
 <hr>
-<h6 align="center">
+<h4 align="center">
   
 ```js
 Truth or false
