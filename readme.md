@@ -1,5 +1,6 @@
-<hr>
 <h4 align="center">
+<img src="assets/Untitled.png" width=1000px>
+<hr>
   
 ```ruby
 present day present time
